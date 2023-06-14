@@ -1,12 +1,11 @@
 # number_guesser
 a number guessing game created with python.
 
-##Number Guessing Game
+Number Guessing Game
 
-#This is a simple number guessing game implemented in Python. The game presents a series of multiple-choice questions related to computer hardware. The player's score is calculated based on the number of correct answers.
+This is a simple number guessing game implemented in Python. The game presents a series of multiple-choice questions related to computer hardware. The player's score is calculated based on the number of correct answers.
 
-##Instructions
-
+Instructions
 1.Run the Python script to start the game.
 2.You will be asked if you want to play. Enter "yes" to start or any other input to quit the game.
 3.If you choose to play, the game will begin by presenting a series of questions.
